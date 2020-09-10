@@ -1,6 +1,6 @@
-animal = 'dog'
+animal = "dog"
 
-function myAnimal(animal) {
+function myAnimal() {
   // You should not need to modify this function
   return animal
 }
